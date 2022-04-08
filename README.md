@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on cyber security  
-- 🌱 I’m currently learning python, basic of linux, ethical hacking 
+- 🌱 I’m currently learning python, basic of linux, ethical hacking and blockchain technology
 - 👯 I’m looking to collaborate on security projects
 - 🤔 I’m looking for help with projects, internships
 - 💬 Ask me about anything
