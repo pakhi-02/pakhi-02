@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on cyber security  
-- 🌱 I’m currently learning python, basic of linux, ethical hacking and blockchain technology
-- 👯 I’m looking to collaborate on security projects
-- 🤔 I’m looking for help with projects, internships
-- 💬 Ask me about anything
+- 🔭 I’m currently working on cyber security.... 
+- 🌱 I’m currently learning python, basic of linux, ethical hacking, blockchain technology and web development....
+- 👯 I’m looking to collaborate on security projects, development...
+- 🤔 I’m looking for help with projects, internships....
+- 💬 Ask me about hacking tecniques....
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/
 - instagram : https://www.instagram.com/yo_random.gurl/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i can hack you 
+- ⚡ Fun fact: i can hack you....!!!
