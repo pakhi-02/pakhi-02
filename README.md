@@ -8,6 +8,5 @@
 - 🤔 I’m looking for internships to enhance my skills..
 - 💬 Ask me about nex gen AI
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/
-- instagram : 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ....!!!
