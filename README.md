@@ -30,8 +30,8 @@ I’m a **Software Engineer and Machine Learning practitioner** currently pursui
 ---
 
 ### 🤝 Open To
-- Software Engineer Intern roles
-- Machine Learning / Computer Vision Intern roles
+- Software Engineer Full-Time roles
+- Machine Learning / Computer Vision ull-Time roles
 - Applied ML and development collaborations
 
 ---
