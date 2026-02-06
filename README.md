@@ -1,42 +1,51 @@
-### Hi, I’m Pakhi 👋
+# Hi, I’m Pakhi 👋 <img src="https://media.giphy.com/media/hvRJCLzz8CXT357vSg/giphy.gif" width="30px">
 
-I’m a **Software Engineer and Machine Learning practitioner** currently pursuing a Master’s in Computer Science at **The Ohio State University**. I work on building **Python-based systems**, **computer vision pipelines**, and **machine learning models** with a focus on real-world applications.
-
----
-
-### 🔧 What I Work On
-- Software development using **Python** and **C++**
-- Applied **machine learning** and **computer vision** projects
-- Data processing and model evaluation pipelines
-- Experimenting with ML models for robustness and performance
+### 🎓 MS in Computer Science @ The Ohio State University 🌰
+**Software Engineer & Machine Learning Practitioner** I build **Python-based systems**, **computer vision pipelines**, and **robust ML models**. Currently focusing on making AI more applicable and reliable in real-world environments.
 
 ---
 
-### 📌 Featured Projects
-- **Diabetic Retinopathy Detection** — CNN-based medical image classification  
-- **Bone Age Estimation** — Deep learning for pediatric radiology  
-- **Computer Vision Pipelines** — Object and motion tracking using OpenCV  
+### 🛠️ The Toolkit
 
-(See pinned repositories below ⬇️)
-
----
-
-### 🧠 Technical Interests
-- Software Engineering
-- Machine Learning & Computer Vision
-- Data-driven systems
-- Applied AI
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **ML/CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Data/Ops** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
-### 🤝 Open To
-- Software Engineer Full-Time roles
-- Machine Learning / Computer Vision ull-Time roles
-- Applied ML and development collaborations
+### 🚀 Interactive Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/
+### 🔬 Featured ML Research & Projects
 
+* **👁️ Diabetic Retinopathy Detection**
+    * *Role:* CNN-based medical image classification.
+    * *Tech:* PyTorch, EfficientNet, Image Augmentation.
+* **🦴 Bone Age Estimation**
+    * *Role:* Deep learning for pediatric radiology.
+    * *Tech:* Regression Models, Attention Mechanisms.
+* **📡 Computer Vision Pipelines**
+    * *Role:* Real-time object and motion tracking.
+    * *Tech:* OpenCV, YOLO, Kalman Filters.
 
+---
+
+### 🤝 Let's Connect!
+I am currently looking for **Full-Time Software Engineering** and **ML/CV** roles starting [Your Graduation Date].
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pakhi Chatterjee" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@osu.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Training models by day, debugging pipelines by night."</i>
+</p>
