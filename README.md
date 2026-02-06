@@ -18,15 +18,15 @@
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Pakhi's Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pakhi-02&show_icons=true&theme=radical&rank_icon=github" alt="Pakhi's Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=radical" alt="Top Languages" height="190" />
 </p>
 
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pakhi-02/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
