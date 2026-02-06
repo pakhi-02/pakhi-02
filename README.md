@@ -18,9 +18,9 @@
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakhi-02&show_icons=true&theme=radical&rank_icon=github" alt="Pakhi's Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=radical" alt="Top Languages" height="190" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pakhi-02&show_icons=true&theme=radical&rank_icon=github" alt="Pakhi's Stats" height="190" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=radical" alt="Top Languages" height="190" />
+</p
 
 ### 🐍 Contribution Snake
 <picture>
