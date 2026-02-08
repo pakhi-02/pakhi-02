@@ -1,4 +1,4 @@
-# Hi, I’m Pakhi 👋 <img src="https://media.giphy.com/media/hvRJCLzz8CXT357vSg/giphy.gif" width="30px">
+# Hi, I’m Pakhi 👋 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1kenkyNmE1ZWdkMHJqam1ldDlkZGtnZTZtaDlkMHE5b2l3bmJsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="30px">
 
 ### 🎓 MS in Computer Science @ The Ohio State University 🌰
 **Software Engineer & Machine Learning Practitioner** I build **Python-based systems**, **computer vision pipelines**, and **robust ML models**. Currently focusing on making AI more applicable and reliable in real-world environments.
