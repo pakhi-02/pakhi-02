@@ -1,40 +1,74 @@
+<div align="center">
+
 # Hey there! I'm Pakhi 👋
 
-I'm a grad student at Ohio State wrapping up my MS in Computer Science. I spend most of my time building ML models and computer vision systems that actually work in the real world (not just on clean datasets 😅).
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1kenkyNmE1ZWdkMHJqam1ldDlkZGtnZTZtaDlkMHE5b2l3bmJsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="40px">
 
-Right now I'm deep into making AI systems more reliable and applicable outside of research papers. There's a huge gap between "works on MNIST" and "works in production," and that's what I'm trying to bridge.
+*MS in Computer Science @ The Ohio State University 🌰*
 
-## What I work with
+I build ML models and computer vision systems that actually work in production, not just on clean datasets.
 
-**Languages:** Python (my go-to), C++
-
-**ML & CV:** PyTorch, TensorFlow, OpenCV, scikit-learn  
-**Data stuff:** pandas, NumPy, Matplotlib  
-**Tools:** Git, Docker, Jupyter, VS Code
-
-## Things I've built
-
-**Diabetic Retinopathy Detection**  
-Built a CNN classifier to detect diabetic retinopathy from retinal images. Used EfficientNet with heavy data augmentation because medical imaging datasets are never big enough.
-
-**Bone Age Estimation**  
-Regression model to estimate pediatric bone age from X-rays. Experimented with attention mechanisms to help the model focus on relevant anatomical features.
-
-**Real-time CV Pipelines**  
-Various projects involving object tracking, motion detection, and real-time video analysis. YOLO for detection, Kalman filters for tracking smoothness.
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pakhi-02&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=radical" alt="Most Used Languages" height="165" />
-</p>
-
-## Currently looking for
-
-Full-time Software Engineering or ML/Computer Vision roles. If you're working on interesting problems in production ML or computer vision, I'd love to chat!
-
-**Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/) • [Email](mailto:chatterjee.197@osu.edu)
+Currently bridging the gap between research papers and real-world applications.
 
 ---
 
-*Training models by day, debugging why they don't converge by night.*
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+</div>
+
+## 💡 What I'm Building
+
+**👁️ Diabetic Retinopathy Detection**  
+CNN classifier for early detection from retinal images. Leveraging EfficientNet with aggressive augmentation because medical datasets are always too small.
+
+**🦴 Bone Age Estimation**  
+Deep learning regression model for pediatric X-rays. Implemented attention mechanisms to focus on key anatomical markers.
+
+**📡 Real-time Computer Vision**  
+Production-ready object tracking and motion detection pipelines. YOLO + Kalman filters for smooth, real-time performance.
+
+<div align="center">
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pakhi-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5FFF&icon_color=7A5FFF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5FFF&text_color=FFFFFF" alt="Top Languages" height="180" />
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+### 🤝 Let's Connect
+
+Currently seeking full-time SWE and ML/CV roles. Open to interesting problems in production ML.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatterjee.197@osu.edu)
+
+---
+
+*"Training models by day, debugging why they won't converge by night."*
+
+<img src="https://komarev.com/ghpvc/?username=pakhi-02&style=flat-square&color=7A5FFF" alt="Profile Views" />
+
+</div>
