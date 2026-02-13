@@ -41,13 +41,6 @@ Production-ready object tracking and motion detection pipelines. YOLO + Kalman f
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pakhi-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5FFF&icon_color=7A5FFF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pakhi-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5FFF&text_color=FFFFFF" alt="Top Languages" height="180" />
-
----
-
 ### 🐍 Contribution Graph
 
 <picture>
