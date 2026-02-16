@@ -165,8 +165,8 @@ Status: Ongoing exploration
 <a href="mailto:chatterjee.197@osu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" alt="Email" />
 </a>
-
-<a href= "https://pakhi-02.github.io/pakhi-02.githu.io/"
+<a href="https://pakhi-02.github.io/pakhi-02.githu.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=flat-square&labelColor=FF7139" alt="Portfolio" />
 </a>
 
 <br/><br/>
