@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=MS+in+Computer+Science;%40+The+Ohio+State+University+%F0%9F%8C%B0" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Data+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
 
 </div>
 
