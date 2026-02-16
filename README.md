@@ -166,6 +166,9 @@ Status: Ongoing exploration
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" alt="Email" />
 </a>
 
+<a href= "https://pakhi-02.github.io/pakhi-02.githu.io/"
+</a>
+
 <br/><br/>
 
 **Currently seeking full-time SWE & ML/CV roles**  
