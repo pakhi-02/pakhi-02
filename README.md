@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,25,26&section=header&text=Pakhi%20Chatterjee&fontSize=50&fontColor=eef2ff&animation=fadeIn&fontAlign=18&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&section=header&text=Pakhi%20Chatterjee%20%F0%9F%8C%B0&fontSize=44&fontColor=eef2ff&animation=fadeIn&fontAlign=20&fontAlignY=42"/>
 
 <br/>
 
