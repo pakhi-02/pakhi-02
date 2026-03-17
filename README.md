@@ -6,6 +6,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Data+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to_Work-Yes-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Location-Columbus%2C%20OH-8a2be2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-Production%20AI-00bcd4?style=flat-square&logo=brain&logoColor=white" alt="Focus" />
+
+<br/>
+
+<sub>˚ʚ♡ɞ˚ Building thoughtful AI systems with research depth + engineering polish ˚ʚ♡ɞ˚</sub>
+
 </div>
 
 <br/>
@@ -14,6 +24,8 @@
 
 ## 🎯 About Me
 
+<sub>──────────── ୨ৎ ────────────</sub>
+
 </div>
 
 ```python
@@ -21,13 +33,13 @@ class Pakhi:
     def __init__(self):
         self.education = "MS in Computer Science @ OSU"
         self.focus = ["Machine Learning", "Computer Vision", "Production AI"]
-        self.current_mission = "Bridging research papers → real-world applications"
-        
+        self.current_mission = "Turning research into production-ready AI"
+
     def daily_routine(self):
         return {
-            "morning": "☕ Coffee + Training models",
-            "afternoon": "👨‍💻 Building CV pipelines", 
-            "night": "🐛 Debugging convergence issues"
+            "morning": "☕ Coffee + model training",
+            "afternoon": "👨‍💻 Building computer vision pipelines",
+            "night": "🐛 Debugging training stability"
         }
 ```
 
@@ -35,7 +47,30 @@ class Pakhi:
 
 <div align="center">
 
+## ✨ Quick Highlights
+
+<sub>──────────── ୨ৎ ────────────</sub>
+
+</div>
+
+<div align="center">
+
+| 💡 | Snapshot |
+|---|---|
+| 🎓 | MS in Computer Science at The Ohio State University |
+| 🔬 | Building production-grade ML and computer vision systems |
+| 🚀 | Turning research ideas into reliable, real-world tools |
+| 🤝 | Actively seeking full-time SWE and ML/CV opportunities |
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🛠️ Technology Arsenal
+
+<sub>──────────── ୨ৎ ────────────</sub>
 
 <table>
 <tr>
@@ -78,6 +113,8 @@ class Pakhi:
 
 ## 💼 Featured Projects
 
+<sub>──────────── ୨ৎ ────────────</sub>
+
 </div>
 
 <div align="center">
@@ -89,9 +126,9 @@ class Pakhi:
 ### 👁️ Diabetic Retinopathy Detection
 ```yaml
 Type: Medical Image Classification
-Model: EfficientNet + CNNs
-Challenge: Small medical datasets
-Solution: Aggressive data augmentation
+Model: EfficientNet + CNN ensemble
+Challenge: Limited labeled scans
+Solution: Targeted augmentation + regularization
 Status: Production-ready
 ```
 
@@ -102,9 +139,9 @@ Status: Production-ready
 ```yaml
 Type: Regression Model
 Domain: Pediatric Radiology
-Architecture: Attention Mechanisms
-Focus: Anatomical feature detection
-Status: Research → Deployment
+Architecture: Attention-based CNN
+Focus: Fine-grained anatomical cues
+Status: Deployed research prototype
 ```
 
 </td>
@@ -115,8 +152,8 @@ Status: Research → Deployment
 ### 📡 Real-time CV Pipelines
 ```yaml
 Type: Object Tracking System
-Tech: YOLO + Kalman Filters
-Performance: Real-time processing
+Tech: YOLO + Kalman filtering
+Performance: Low-latency inference
 Use Case: Motion detection & tracking
 Status: Production deployment
 ```
@@ -126,10 +163,10 @@ Status: Production deployment
 
 ### 🤖 ML Research
 ```yaml
-Focus: Production ML Systems
+Focus: Production ML systems
 Areas: Computer Vision, Deep Learning
-Goal: Research → Real-world impact
-Approach: Practical ML engineering
+Goal: Research-to-production impact
+Approach: Applied ML engineering
 Status: Ongoing exploration
 ```
 
@@ -143,7 +180,22 @@ Status: Ongoing exploration
 
 <div align="center">
 
+## 📊 GitHub Glow
+
+<sub>──────────── ୨ৎ ────────────</sub>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pakhi-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pakhi-02&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🐍 Contribution Activity
+
+<sub>──────────── ୨ৎ ────────────</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
@@ -159,14 +211,16 @@ Status: Ongoing exploration
 
 ## 🌐 Connect With Me
 
+<sub>──────────── ୨ৎ ────────────</sub>
+
 <a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
 <a href="mailto:chatterjee.197@osu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
 </a>
-<a href="https://pakhi-02.github.io/pakhi-02.githu.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=flat-square&labelColor=FF7139" alt="Portfolio" />
+<a href="https://pakhi-02.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -187,6 +241,8 @@ Status: Ongoing exploration
 ---
 
 *"Training models by day, debugging convergence by night"* ✨
+
+<sub>Thanks for stopping by — let’s build something meaningful 💜</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
