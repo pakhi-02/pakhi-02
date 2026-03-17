@@ -70,25 +70,41 @@ Build dependable ML products people can trust.
 <td width="50%" valign="top">
 
 ### 👁️ Diabetic Retinopathy Detection
-**Medical Image Classification**
+<sub><b>Medical Image Classification</b></sub>
 
-EfficientNet + CNN ensemble with targeted augmentation and regularization for limited labeled data.
+<br/>
 
-`EfficientNet` `CNN Ensemble` `Medical Imaging`
+Built an EfficientNet + CNN ensemble and improved robustness on limited labeled data with targeted augmentation and regularization.
 
-**→ Production-oriented model pipeline**
+<br/>
+
+![EfficientNet](https://img.shields.io/badge/EfficientNet-60A5FA?style=flat-square&labelColor=0F172A)
+![CNN Ensemble](https://img.shields.io/badge/CNN%20Ensemble-3B82F6?style=flat-square&labelColor=0F172A)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-93C5FD?style=flat-square&labelColor=0F172A)
+
+<br/>
+
+<b>Outcome:</b> Production-oriented model pipeline
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦴 Bone Age Estimation
-**Pediatric Radiology · Regression**
+<sub><b>Pediatric Radiology · Regression</b></sub>
 
-Attention-based CNN regression for fine-grained anatomical feature learning across age ranges.
+<br/>
 
-`Attention CNN` `Regression` `Radiology`
+Developed an attention-based CNN regression model to capture fine-grained anatomical cues across age ranges.
 
-**→ Deployed research prototype**
+<br/>
+
+![Attention CNN](https://img.shields.io/badge/Attention%20CNN-60A5FA?style=flat-square&labelColor=0F172A)
+![Regression](https://img.shields.io/badge/Regression-3B82F6?style=flat-square&labelColor=0F172A)
+![Radiology](https://img.shields.io/badge/Radiology-93C5FD?style=flat-square&labelColor=0F172A)
+
+<br/>
+
+<b>Outcome:</b> Deployed research prototype
 
 </td>
 </tr>
@@ -96,25 +112,41 @@ Attention-based CNN regression for fine-grained anatomical feature learning acro
 <td width="50%" valign="top">
 
 ### 📡 Real-Time CV Pipeline
-**Object Tracking · Low-Latency Inference**
+<sub><b>Object Tracking · Low-Latency Inference</b></sub>
 
-YOLO + Kalman filtering optimized for stable low-latency tracking in production environments.
+<br/>
 
-`YOLO` `Kalman Filter` `Object Tracking`
+Implemented YOLO + Kalman filtering for stable tracking with low-latency behavior in production settings.
 
-**→ Production deployment**
+<br/>
+
+![YOLO](https://img.shields.io/badge/YOLO-60A5FA?style=flat-square&labelColor=0F172A)
+![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-3B82F6?style=flat-square&labelColor=0F172A)
+![Object Tracking](https://img.shields.io/badge/Object%20Tracking-93C5FD?style=flat-square&labelColor=0F172A)
+
+<br/>
+
+<b>Outcome:</b> Production deployment
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Applied ML Research
-**Research → Practical Systems**
+<sub><b>Research → Practical Systems</b></sub>
 
-Bridging research ideas and real-world ML systems with focus on practical impact.
+<br/>
 
-`Applied AI` `System Design` `CV Research`
+Bridged research concepts into real-world ML workflows with an emphasis on practical, measurable impact.
 
-**→ Ongoing applied exploration**
+<br/>
+
+![Applied AI](https://img.shields.io/badge/Applied%20AI-60A5FA?style=flat-square&labelColor=0F172A)
+![System Design](https://img.shields.io/badge/System%20Design-3B82F6?style=flat-square&labelColor=0F172A)
+![CV Research](https://img.shields.io/badge/CV%20Research-93C5FD?style=flat-square&labelColor=0F172A)
+
+<br/>
+
+<b>Outcome:</b> Ongoing applied exploration
 
 </td>
 </tr>
