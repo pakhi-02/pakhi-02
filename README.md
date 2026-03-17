@@ -141,26 +141,20 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 - **2025:** Built and iterated on production-oriented healthcare/CV pipelines
 - **2026:** MS CS at OSU + actively pursuing full-time ML/CV engineering roles
 
-## Certifications & Publications
-
-<div align="center">
-
-![Publications](https://img.shields.io/badge/Publications-Updating%20Soon-BFDBFE?style=flat-square&labelColor=0F172A)
-![Certifications](https://img.shields.io/badge/Certifications-Updating%20Soon-60A5FA?style=flat-square&labelColor=0F172A)
-![Talks](https://img.shields.io/badge/Talks-Open%20to%20Speaking-3B82F6?style=flat-square&labelColor=0F172A)
-
-</div>
-
 ## Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,git,linux,bash,vscode&perline=10" alt="Languages and Tools" />
+<table>
+  <tr>
+    <td align="center" width="260"><b>ML / CV</b><br/><br/><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4" alt="ML and CV" /></td>
+    <td align="center" width="260"><b>Engineering</b><br/><br/><img src="https://skillicons.dev/icons?i=cpp,bash,linux&perline=3" alt="Engineering" /></td>
+    <td align="center" width="260"><b>Dev Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,git,vscode&perline=3" alt="Dev Tools" /></td>
+  </tr>
+</table>
 
 <br/>
-
-![Core](https://img.shields.io/badge/Core-Python%20%C2%B7%20C%2B%2B%20%C2%B7%20PyTorch%20%C2%B7%20TensorFlow-60A5FA?style=flat-square&labelColor=0F172A)
-![Tools](https://img.shields.io/badge/Tools-OpenCV%20%C2%B7%20Docker%20%C2%B7%20Git%20%C2%B7%20Linux-3B82F6?style=flat-square&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/Focus-Production%20ML%20%26%20Computer%20Vision-60A5FA?style=flat-square&labelColor=0F172A)
 
 </div>
 
