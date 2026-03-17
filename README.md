@@ -1,36 +1,51 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PAKHI CHATTERJEE — README.md             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=9D174D&section=header&text=Pakhi%20Chatterjee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=9D174D&center=true&vCenter=true&width=760&lines=AI+Engineer+%7C+Computer+Vision+%7C+Production+ML;MS+in+Computer+Science+%40+The+Ohio+State+University" alt="typing intro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&section=header&text=Pakhi%20Chatterjee&fontSize=48&fontColor=f5eaf0&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=c97fb0&descAlignY=56" />
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/Open_to_Work-Full--Time-9D174D?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Columbus%2C%20OH-6B7280?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Production%20AI-374151?style=flat-square&logo=databricks&logoColor=white" alt="Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1000&color=C97FB0&center=true&vCenter=true&width=800&lines=Building+dependable+ML+systems+that+actually+ship.;Computer+Vision+Engineer+%40+Ohio+State+University.;From+experimentation+to+production+%E2%80%94+end+to+end." alt="typing" />
 
-  <br/>
-  <sub>Building practical ML systems with thoughtful design and production reliability.</sub>
+<br/><br/>
+
+![Open to Work](https://img.shields.io/badge/✦%20Open%20to%20Work-Full--Time-c97fb0?style=flat-square&labelColor=1a0a14)
+![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-7a5a70?style=flat-square&labelColor=13101a)
+![Focus](https://img.shields.io/badge/Production%20AI-Computer%20Vision-8c5ab0?style=flat-square&labelColor=13101a)
+
+</div>
+
+---
+
+<div align="center">
+<sub><i>MS in Computer Science · The Ohio State University · Calm, curious, and detail-oriented.</i></sub>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/About-Me-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="about" />
-</div>
-
-I’m an MS CS student at The Ohio State University focused on computer vision and production machine learning. I enjoy taking ideas from experimentation to dependable systems that can actually ship.
+## `about_me.py`
 
 ```python
 class Pakhi:
     def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "MS in Computer Science @ The Ohio State University"
-        self.focus = ["Computer Vision", "Production ML", "Applied AI"]
-        self.vibe = "Calm, curious, and detail-oriented"
-        self.current_goal = "Build accurate and dependable ML systems"
+        self.role       = "AI Engineer"
+        self.education  = "MS in Computer Science @ The Ohio State University"
+        self.focus      = ["Computer Vision", "Production ML", "Applied AI"]
+        self.vibe       = "Calm, curious, and detail-oriented"
+        self.goal       = "Build accurate and dependable ML systems"
+
+    def what_i_bring(self):
+        return {
+            "execution":    "End-to-end ML — data prep → evaluation → deployment",
+            "engineering":  "Practical CV with focus on quality, latency, reliability",
+            "ownership":    "Turning ambiguous problems into working solutions"
+        }
 
     def building_now(self):
+        # ideas → dependable systems that can actually ship
         return [
             "Reliable CV pipelines",
             "Model improvements for real-world data",
@@ -38,34 +53,36 @@ class Pakhi:
         ]
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/What-I-Bring-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="what i bring" />
-</div>
+<br/>
 
-- End-to-end ML execution from data prep to evaluation and deployment-minded iteration
-- Practical computer vision engineering with focus on quality, latency, and reliability
-- Strong ownership in turning ambiguous problems into working solutions
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Featured-Work-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="featured work" />
-</div>
+## ✦ Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 👁️ Diabetic Retinopathy Detection
-- EfficientNet + CNN ensemble for medical image classification
-- Improved robustness on limited labeled data using targeted augmentation and regularization
-- <b>Outcome:</b> Production-oriented model pipeline
+**Medical Image Classification**
+
+EfficientNet + CNN ensemble built for real-world robustness. Targeted augmentation and regularization improved performance on limited labeled data.
+
+`EfficientNet` `CNN Ensemble` `Medical Imaging`
+
+**→ Production-oriented model pipeline**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦴 Bone Age Estimation
-- Attention-based CNN regression for pediatric radiology
-- Learned fine-grained anatomical cues for stronger prediction quality
-- <b>Outcome:</b> Deployed research prototype
+**Pediatric Radiology · Regression**
+
+Attention-based CNN regression that learns fine-grained anatomical cues for stronger prediction quality across age ranges.
+
+`Attention CNN` `Regression` `Radiology`
+
+**→ Deployed research prototype**
 
 </td>
 </tr>
@@ -73,66 +90,95 @@ class Pakhi:
 <td width="50%" valign="top">
 
 ### 📡 Real-Time CV Pipeline
-- Object tracking with YOLO + Kalman filtering
-- Optimized for low-latency inference and stable tracking
-- <b>Outcome:</b> Production deployment
+**Object Tracking · Low-Latency Inference**
+
+YOLO + Kalman filtering optimized for stable, low-latency tracking in production environments. Built for reliability under real-world conditions.
+
+`YOLO` `Kalman Filter` `Object Tracking`
+
+**→ Production deployment**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Applied ML Research
-- Turned research ideas into practical ML systems
-- Prioritized measurable real-world impact over benchmark-only wins
-- <b>Outcome:</b> Ongoing applied exploration
+**Research → Practical Systems**
+
+Bridging the gap between research ideas and real-world ML systems. Prioritizing measurable impact over benchmark-only wins.
+
+`Applied AI` `System Design` `CV Research`
+
+**→ Ongoing applied exploration**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tech-Stack-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="tech stack" />
-</div>
+<br/>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,git" alt="tech stack" />
+
+![Python](https://img.shields.io/badge/Python-c97fb0?style=for-the-badge&logo=python&logoColor=1a0a14)
+![PyTorch](https://img.shields.io/badge/PyTorch-8c5ab0?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-7a8cb0?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-b07a5a?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6a7ab0?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5a8ab0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7a5a70?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently-Seeking-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="currently seeking" />
-</div>
+<br/>
 
-- ML Engineer
-- Computer Vision Engineer
-- Software Engineer (ML-focused)
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Contribution-Activity-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="contribution activity" />
-</div>
+## 🎯 Currently Seeking
+
+```
+✦  ML Engineer
+✦  Computer Vision Engineer  
+✦  Software Engineer (ML-focused)
+```
+
+> I'm an MS CS student at The Ohio State University focused on computer vision and production ML.
+> I enjoy taking ideas from experimentation to dependable systems that can actually ship.
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Connect-FCE7F3?style=for-the-badge&logoColor=9D174D&color=FCE7F3" alt="connect" />
-</div>
+<br/>
+
+---
+
+## ✉️ Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chatterjee.197@osu.edu">
-    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://pakhi-02.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-9D174D?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c97fb0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0a14)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-8c5ab0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13101a)](mailto:chatterjee.197@osu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-7a5a70?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d0d0f)](https://pakhi-02.github.io/)
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9D174D&section=footer" />
+<sub>Building reliable ML, one model at a time ✦</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" />
