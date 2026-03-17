@@ -30,14 +30,14 @@
 class Pakhi:
     def __init__(self):
         self.education = "MS in Computer Science @ OSU"
-        self.focus = ["Machine Learning", "Computer Vision", "Production AI"]
-        self.current_mission = "Turning research into production-ready AI"
+        self.focus = ["ML Systems", "Computer Vision", "Applied AI"]
+        self.current_mission = "Building ML that actually works outside notebooks"
 
     def daily_routine(self):
         return {
-            "morning": "☕ Coffee + model training",
-            "afternoon": "👨‍💻 Building computer vision pipelines",
-            "night": "🐛 Debugging training stability"
+            "morning": "☕ Reading, planning, and training runs",
+            "afternoon": "👩‍💻 Building and testing CV pipelines",
+            "night": "🔧 Fixing edge cases and improving reliability"
         }
 ```
 
@@ -54,9 +54,9 @@ class Pakhi:
 | 💡 | Snapshot |
 |---|---|
 | 🎓 | MS in Computer Science at The Ohio State University |
-| 🔬 | Building production-grade ML and computer vision systems |
-| 🚀 | Turning research ideas into reliable, real-world tools |
-| 🤝 | Actively seeking full-time SWE and ML/CV opportunities |
+| 🔬 | Most interested in production ML, especially computer vision |
+| 🚀 | I enjoy taking messy real data and making models useful |
+| 🤝 | Looking for full-time SWE and ML/CV roles where I can build and ship |
 
 </div>
 
