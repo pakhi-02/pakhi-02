@@ -46,17 +46,9 @@ class Pakhi:
 
 </div>
 
-## 🚧 Currently Building
+## 🌟 Quick Note
 
-- 🧪 Robust medical imaging workflows for low-data and noisy-data settings
-- ⚡ Real-time CV components optimized for stable, low-latency inference
-- 🌐 Portfolio refresh with deployable ML/CV case studies and clearer demos
-
-## 🗓️ Journey Timeline
-
-- **2024** · Deepened ML and CV project work with a strong deployment mindset
-- **2025** · Built and iterated on production-oriented healthcare and real-time CV pipelines
-- **2026** · MS CS at OSU, actively pursuing full-time ML/CV engineering roles
+I care about building ML systems that are not only accurate, but also reliable in real-world use.
 
 ## 🛠️ Languages & Tools
 
