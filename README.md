@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&section=header&text=Pakhi%20Chatterjee%20%F0%9F%8C%B0&fontSize=42&fontColor=eef2ff&animation=fadeIn&fontAlign=28&fontAlignY=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3&section=header&text=Pakhi%20Chatterjee%20%F0%9F%8C%B0&fontSize=42&fontColor=eef2ff&animation=fadeIn&fontAlign=28&fontAlignY=42"/>
 
 <br/>
 
@@ -117,9 +117,9 @@ Training models by day, debugging pipelines by night.
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="42" alt="Seaborn" />
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="42" alt="Tableau" />
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
