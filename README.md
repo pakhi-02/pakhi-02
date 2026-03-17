@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=17,18,24&section=header&text=Pakhi%20Chatterjee&fontSize=48&fontColor=f8f5ff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=d6bcfa&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=4A2F4F&section=header&text=Pakhi%20Chatterjee&fontSize=48&fontColor=F8F5FF&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=E8DDF2&descAlignY=56" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=860&lines=Building+dependable+ML+systems+that+actually+ship.;From+experimentation+to+production+%E2%80%94+end-to-end.;MS+in+Computer+Science+%40+The+Ohio+State+University" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2500&pause=900&color=B794D4&center=true&vCenter=true&width=860&lines=Building+dependable+ML+systems+that+actually+ship.;From+experimentation+to+production+%E2%80%94+end-to-end.;MS+in+Computer+Science+%40+The+Ohio+State+University" alt="typing" />
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Work-Full--Time-8B5CF6?style=flat-square&labelColor=2d1b3d)
-![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-7C6BA6?style=flat-square&labelColor=2d1b3d)
-![Focus](https://img.shields.io/badge/Focus-Production%20AI-9F7AEA?style=flat-square&labelColor=2d1b3d)
+![Open to Work](https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Work-Full--Time-B794D4?style=flat-square&labelColor=2A1E2E)
+![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-A184C6?style=flat-square&labelColor=2A1E2E)
+![Focus](https://img.shields.io/badge/Focus-Production%20AI-8E7AB5?style=flat-square&labelColor=2A1E2E)
 
 </div>
 
@@ -124,8 +124,8 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 
 <div align="center">
 
-[![View Repositories](https://img.shields.io/badge/GitHub-Repositories-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b3d)](https://github.com/pakhi-02?tab=repositories)
-[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2d1b3d)](https://pakhi-02.github.io/)
+[![View Repositories](https://img.shields.io/badge/GitHub-Repositories-B794D4?style=for-the-badge&logo=github&logoColor=white&labelColor=2A1E2E)](https://github.com/pakhi-02?tab=repositories)
+[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-8E7AB5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2A1E2E)](https://pakhi-02.github.io/)
 
 </div>
 
@@ -145,9 +145,9 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 
 <div align="center">
 
-![Publications](https://img.shields.io/badge/Publications-Updating%20Soon-c4b5fd?style=flat-square&labelColor=2d1b3d)
-![Certifications](https://img.shields.io/badge/Certifications-Updating%20Soon-a78bfa?style=flat-square&labelColor=2d1b3d)
-![Talks](https://img.shields.io/badge/Talks-Open%20to%20Speaking-8B5CF6?style=flat-square&labelColor=2d1b3d)
+![Publications](https://img.shields.io/badge/Publications-Updating%20Soon-CBB7DF?style=flat-square&labelColor=2A1E2E)
+![Certifications](https://img.shields.io/badge/Certifications-Updating%20Soon-B794D4?style=flat-square&labelColor=2A1E2E)
+![Talks](https://img.shields.io/badge/Talks-Open%20to%20Speaking-8E7AB5?style=flat-square&labelColor=2A1E2E)
 
 </div>
 
@@ -159,8 +159,8 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 
 <br/>
 
-![Core](https://img.shields.io/badge/Core-Python%20%C2%B7%20C%2B%2B%20%C2%B7%20PyTorch%20%C2%B7%20TensorFlow-a78bfa?style=flat-square&labelColor=2d1b3d)
-![Tools](https://img.shields.io/badge/Tools-OpenCV%20%C2%B7%20Docker%20%C2%B7%20Git%20%C2%B7%20Linux-8B5CF6?style=flat-square&labelColor=2d1b3d)
+![Core](https://img.shields.io/badge/Core-Python%20%C2%B7%20C%2B%2B%20%C2%B7%20PyTorch%20%C2%B7%20TensorFlow-B794D4?style=flat-square&labelColor=2A1E2E)
+![Tools](https://img.shields.io/badge/Tools-OpenCV%20%C2%B7%20Docker%20%C2%B7%20Git%20%C2%B7%20Linux-8E7AB5?style=flat-square&labelColor=2A1E2E)
 
 </div>
 
@@ -195,7 +195,7 @@ Bridging research ideas and real-world ML systems with focus on practical impact
   <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Email" />
 </a>
 <a href="https://pakhi-02.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2d1b3d" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8E7AB5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2A1E2E" alt="Portfolio" />
 </a>
 
 </div>
@@ -203,7 +203,7 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=8E7AB5" alt="Profile Views" />
 </div>
 
 <br/>
@@ -212,4 +212,4 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 <sub>Building reliable ML, one model at a time ✦</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=17,18,24&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4A2F4F&section=footer" />
