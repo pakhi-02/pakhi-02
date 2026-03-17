@@ -4,9 +4,13 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Open%20to%20Work-Full--Time-c084ab?style=flat-square&labelColor=0f0b16)
-![](https://img.shields.io/badge/Location-Columbus%2C%20OH-8c6aac?style=flat-square&labelColor=0f0b16)
-![](https://img.shields.io/badge/Education-OSU%20%C2%B7%20MS%20CS-a879bb?style=flat-square&labelColor=0f0b16)
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=2200&pause=700&color=C084AB&center=true&vCenter=true&repeat=true&width=860&lines=AI+Engineer;Computer+Vision+Engineer;Production+ML+Builder" alt="changing roles" />
+
+<br/>
+
+![](https://img.shields.io/badge/Open%20to%20Work-c084ab?style=for-the-badge&logo=handshake&logoColor=white)
+![](https://img.shields.io/badge/Columbus%2C%20OH-8c6aac?style=for-the-badge&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/OSU%20%C2%B7%20MS%20CS-a879bb?style=for-the-badge)
 
 </div>
 
@@ -18,13 +22,13 @@ class Pakhi:
         self.role = "AI Engineer"
         self.school = "MS CS · Ohio State University"
         self.focus = ["Computer Vision", "Production ML", "Applied AI"]
-        self.vibe = "calm, curious, detail-oriented"
+    self.vibe = "calm, curious, execution-focused"
 
     def what_i_bring(self):
         return {
             "execution": "End-to-end ML: data prep → training → evaluation → deployment",
             "engineering": "Practical CV with focus on quality, latency, and reliability",
-            "ownership": "Turning ambiguous problems into useful, shipped solutions"
+        "ownership": "Turning ambiguous problems into shipped, useful solutions"
         }
 ```
 
@@ -32,86 +36,118 @@ class Pakhi:
 
 <div align="center">
 
-| 🚀 Impact | 🧠 Strength | 🎯 Goal |
-|---|---|---|
-| Research-to-production mindset with measurable outcomes | Computer vision for real-world, messy data | Build dependable ML products people can trust |
+<table>
+  <tr>
+    <td align="center" width="33%"><b>🚀 Impact</b><br/><sub>Research-to-production mindset with measurable outcomes.</sub></td>
+    <td align="center" width="33%"><b>🧠 Strength</b><br/><sub>Computer vision systems for real-world, messy data.</sub></td>
+    <td align="center" width="33%"><b>🎯 Goal</b><br/><sub>Build dependable ML products people can trust.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/Research%20%E2%86%92%20Production-c084ab?style=flat-square&labelColor=0f0b16)
+![](https://img.shields.io/badge/Computer%20Vision-Real--World%20Focus-a879bb?style=flat-square&labelColor=0f0b16)
+![](https://img.shields.io/badge/Reliability-First-8c6aac?style=flat-square&labelColor=0f0b16)
 
 </div>
 
 ## Featured Work
 
-```yaml
-01 · Diabetic Retinopathy Detection
-Type: Medical Image Classification
-Stack: EfficientNet + CNN Ensemble
-Focus: Robust performance on limited labeled medical data
-Outcome: Production-oriented pipeline
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-02 · Bone Age Estimation
-Type: Pediatric Radiology Regression
-Architecture: Attention-based CNN
-Focus: Fine-grained anatomical cue learning
-Outcome: Deployed research prototype
-```
+### 👁️ Diabetic Retinopathy Detection
+<sub><b>Medical Image Classification</b></sub>
 
-```yaml
-03 · Real-Time CV Pipeline
-Type: Object Tracking System
-Stack: YOLO + Kalman filtering
-Focus: Stable low-latency inference in production
-Outcome: Production deployment
-```
+EfficientNet + CNN ensemble tuned for limited labeled medical data with targeted augmentation.
 
-```yaml
-04 · Applied ML Research
-Theme: Research → Practical Systems
-Focus: Real-world impact over benchmark-only wins
-Areas: Applied AI, CV research, system design
-Status: Ongoing
-```
+`EfficientNet` `CNN Ensemble` `Medical Imaging`
+
+<b>Outcome:</b> Production-oriented pipeline
+
+</td>
+<td width="50%" valign="top">
+
+### 🦴 Bone Age Estimation
+<sub><b>Pediatric Radiology Regression</b></sub>
+
+Attention-based CNN regression focused on fine-grained anatomical cue learning.
+
+`Attention CNN` `Regression` `Radiology`
+
+<b>Outcome:</b> Deployed research prototype
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Real-Time CV Pipeline
+<sub><b>Object Tracking System</b></sub>
+
+YOLO + Kalman filtering optimized for stable low-latency inference in production.
+
+`YOLO` `Kalman Filter` `Object Tracking`
+
+<b>Outcome:</b> Production deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Applied ML Research
+<sub><b>Research → Practical Systems</b></sub>
+
+Training models by day, debugging pipelines by night.
+
+`Applied AI` `CV Research` `System Design`
+
+<b>Status:</b> Ongoing
+
+</td>
+</tr>
+</table>
 
 ## Languages & Tools
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="250">
-      <b>ML / CV</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4" alt="ML and CV" />
-    </td>
-    <td align="center" width="250">
-      <b>Engineering</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,bash,linux&perline=3" alt="Engineering" />
-    </td>
-    <td align="center" width="250">
-      <b>Dev Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode&perline=3" alt="Dev Tools" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,swift,bootstrap,react,angular,css,html,nodejs,flutter,tensorflow,opencv,pytorch,sklearn,mongodb,mysql,d3,docker,kubernetes,bash,firebase,django,figma,blender,matlab,nextjs,linux,git&perline=10" alt="Tech Stack Logos" />
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="42" alt="Seaborn" />
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="42" alt="Tableau" />
 
 </div>
 
-## Currently Seeking
+## 🎯 Currently Seeking
 
 <div align="center">
 
-**ML Engineer** · **Computer Vision Engineer** · **Software Engineer (ML-focused)**
+![](https://img.shields.io/badge/OPEN%20TO-FULL--TIME%20ROLES-c084ab?style=for-the-badge&labelColor=0f0b16)
 
-<sub>Looking for full-time roles where I can build and ship production-ready ML/CV systems.</sub>
+<br/>
+
+### **ML Engineer** · **Computer Vision Engineer** · **Software Engineer (ML-focused)**
+
+<sub>I’m looking for teams where I can build, ship, and scale reliable ML/CV systems.</sub>
 
 </div>
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c084ab?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0b16)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-a879bb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0b16)](mailto:chatterjee.197@osu.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8c6aac?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0b16)](https://pakhi-02.github.io/)
+<sub><b>Let’s build meaningful AI together.</b></sub>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%94%97%20Connect-c084ab?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0b16)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
+[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A9%20Say%20Hello-a879bb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0b16)](mailto:chatterjee.197@osu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%9A%80%20Visit-8c6aac?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0b16)](https://pakhi-02.github.io/)
 
 <br/>
 
