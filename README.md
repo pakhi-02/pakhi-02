@@ -120,6 +120,37 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 </tr>
 </table>
 
+## 🔗 Explore Projects
+
+<div align="center">
+
+[![View Repositories](https://img.shields.io/badge/GitHub-Repositories-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b3d)](https://github.com/pakhi-02?tab=repositories)
+[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2d1b3d)](https://pakhi-02.github.io/)
+
+</div>
+
+## 🧪 Currently Building
+
+- A more robust medical imaging workflow for low-data settings
+- Real-time CV components optimized for stable inference behavior
+- A polished portfolio of deployable ML/CV case studies
+
+## 🗓️ Journey Timeline
+
+- **2024:** Deepened ML and CV project work with deployment focus
+- **2025:** Built and iterated on production-oriented healthcare/CV pipelines
+- **2026:** MS CS at OSU + actively pursuing full-time ML/CV engineering roles
+
+## 🏅 Certifications & Publications
+
+<div align="center">
+
+![Publications](https://img.shields.io/badge/Publications-Updating%20Soon-c4b5fd?style=flat-square&labelColor=2d1b3d)
+![Certifications](https://img.shields.io/badge/Certifications-Updating%20Soon-a78bfa?style=flat-square&labelColor=2d1b3d)
+![Talks](https://img.shields.io/badge/Talks-Open%20to%20Speaking-8B5CF6?style=flat-square&labelColor=2d1b3d)
+
+</div>
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -153,6 +184,8 @@ Bridging research ideas and real-world ML systems with focus on practical impact
 
 ## ✉️ Connect with me
 
+> Open to collaborating on applied ML and computer vision problems that need production-quality engineering.
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/" target="_blank">
@@ -165,6 +198,12 @@ Bridging research ideas and real-world ML systems with focus on practical impact
   <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2d1b3d" alt="Portfolio" />
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
 </div>
 
 <br/>
