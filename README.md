@@ -1,54 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0F172A&section=header&text=Pakhi%20Chatterjee&fontSize=46&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=93C5FD&descAlignY=56" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=860&lines=Building+dependable+ML+systems+that+actually+ship.;From+experimentation+to+production+%E2%80%94+end-to-end.;MS+in+Computer+Science+%40+The+Ohio+State+University" alt="typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=24,25,26&section=header&text=Pakhi%20Chatterjee&fontSize=54&fontColor=f2ecff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=18&descFontColor=d4b4e8&descAlignY=62" />
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Time-60A5FA?style=flat-square&labelColor=0F172A)
-![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-93C5FD?style=flat-square&labelColor=0F172A)
-![Focus](https://img.shields.io/badge/Production%20ML%20%2B%20CV-Active-3B82F6?style=flat-square&labelColor=0F172A)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Full--Time-c084c1?style=flat-square&labelColor=1a1126)
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-bb86c9?style=flat-square&labelColor=1a1126)
+![Columbus, OH](https://img.shields.io/badge/Columbus%2C%20OH-OSU-a471b8?style=flat-square&labelColor=1a1126)
+![OSU · MS CS](https://img.shields.io/badge/OSU%20%C2%B7%20MS%20CS-8f5da8?style=flat-square&labelColor=1a1126)
 
 </div>
 
-<div align="center">
-<sub><i>Calm, curious, and detail-oriented — turning ML ideas into reliable real-world systems.</i></sub>
-</div>
+---
 
-<br/>
-
-## `about_me.py`
+## ABOUT
 
 ```python
 class Pakhi:
     def __init__(self):
         self.role = "AI Engineer"
-        self.education = "MS in Computer Science @ The Ohio State University"
-        self.focus = ["Computer Vision", "Production ML", "Applied AI"]
-        self.current_goal = "Build ML systems that are accurate, robust, and deployable"
+        self.school = "MS CS · The Ohio State University"
+        self.focus = ["Computer Vision", "Production ML"]
+        self.vibe = "calm, curious, detail-oriented"
 
-    def what_i_bring(self):
-        return {
-            "execution": "End-to-end ML: data prep → training → evaluation → deployment",
-            "engineering": "Practical CV with focus on quality, latency, and reliability",
-            "ownership": "Turning ambiguous problems into useful shipped solutions"
-        }
+    def building_now(self):
+        # ideas → dependable systems that ship
+        return ["Reliable CV pipelines", "Real-world model improvements"]
 ```
 
-## ✨ Highlights
+---
 
-<div align="center">
+## ✨ Highlights
 
 | 🚀 Impact | 🧠 Strength | 🎯 Goal |
 |---|---|---|
 | Research-to-production mindset with measurable outcomes | Computer vision for real-world, messy data | Build dependable ML products people can trust |
 
-</div>
+---
 
-## 🌟 Quick Note
+## 🌸 Featured Work
 
-I care about building ML systems that are not only accurate, but also reliable in real-world use.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Diabetic Retinopathy Detection · 01
+EfficientNet + CNN ensemble with targeted augmentation for limited medical data.
+
+![Production pipeline](https://img.shields.io/badge/Production%20pipeline-c084c1?style=flat-square&labelColor=1a1126)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦴 Bone Age Estimation · 02
+Attention-based CNN regression for pediatric radiology and fine-grained anatomical cues.
+
+![Deployed prototype](https://img.shields.io/badge/Deployed%20prototype-bb86c9?style=flat-square&labelColor=1a1126)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Real-Time CV Pipeline · 03
+YOLO + Kalman filtering optimized for stable low-latency inference in production.
+
+![Production deployment](https://img.shields.io/badge/Production%20deployment-8f5da8?style=flat-square&labelColor=1a1126)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Applied ML Research · 04
+Research → practical systems with measurable real-world impact.
+
+![Ongoing](https://img.shields.io/badge/Ongoing-a471b8?style=flat-square&labelColor=1a1126)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -73,6 +104,8 @@ I care about building ML systems that are not only accurate, but also reliable i
 
 </div>
 
+---
+
 ## 🎯 Currently Seeking
 
 - ML Engineer
@@ -80,6 +113,8 @@ I care about building ML systems that are not only accurate, but also reliable i
 - Software Engineer (ML-focused)
 
 > I’m looking for full-time roles where I can build and ship production-ready ML/CV systems.
+
+---
 
 ## 📈 Contribution Activity
 
@@ -90,6 +125,8 @@ I care about building ML systems that are not only accurate, but also reliable i
     <img alt="contribution snake" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+---
 
 ## 🤝 Connect
 
