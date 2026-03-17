@@ -1,224 +1,53 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Pakhi%20Chatterjee&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=MS+in+Computer+Science;%40+The+Ohio+State+University+%F0%9F%8C%B0" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=334155&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Data+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open_to_Work-Yes-1E40AF?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
-<img src="https://img.shields.io/badge/Location-Columbus%2C%20OH-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-Production%20AI-0F172A?style=flat-square&logo=brain&logoColor=white" alt="Focus" />
-
-<br/>
-
-<sub>Building practical AI systems for real-world impact</sub>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=170&section=header&text=Pakhi%20Chatterjee&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
-<br/>
+## AI Engineer | Computer Vision | Production ML
 
-<div align="center">
+MS in Computer Science at The Ohio State University. I build machine learning systems that move from experimentation to reliable production use.
 
-## 🎯 About Me
+### Current Focus
+- Production-grade computer vision pipelines
+- Model training and evaluation on limited/imbalanced datasets
+- Deployment-oriented ML engineering and system reliability
 
+### Selected Projects
+- **Diabetic Retinopathy Detection**  
+  Built a medical image classification pipeline using EfficientNet and CNN ensembles, with targeted augmentation and regularization for limited labeled data.
+
+- **Bone Age Estimation**  
+  Developed an attention-based CNN regression approach for pediatric radiology to improve fine-grained anatomical feature learning.
+
+- **Real-Time Computer Vision Pipeline**  
+  Implemented an object tracking system using YOLO and Kalman filtering for low-latency motion detection and tracking.
+
+- **Applied ML Research**  
+  Focused on translating research ideas into practical ML systems with measurable real-world utility.
+
+### Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,git" alt="Tech Stack" />
 </div>
 
-```python
-class Pakhi:
-    def __init__(self):
-        self.education = "MS in Computer Science @ OSU"
-        self.focus = ["ML Systems", "Computer Vision", "Applied AI"]
-        self.current_mission = "Building ML that actually works outside notebooks"
+### Education
+- **The Ohio State University** — MS in Computer Science
 
-    def daily_routine(self):
-        return {
-            "morning": "☕ Reading, planning, and training runs",
-            "afternoon": "👩‍💻 Building and testing CV pipelines",
-            "night": "🔧 Fixing edge cases and improving reliability"
-        }
-```
+### Opportunities
+I am currently seeking full-time **Software Engineering** and **ML/CV Engineering** roles.
 
-<br/>
-
-<div align="center">
-
-## ✨ Quick Highlights
-
-</div>
-
-<div align="center">
-
-| 💡 | Snapshot |
-|---|---|
-| 🎓 | MS in Computer Science at The Ohio State University |
-| 🔬 | Most interested in production ML, especially computer vision |
-| 🚀 | I enjoy taking messy real data and making models useful |
-| 🤝 | Looking for full-time SWE and ML/CV roles where I can build and ship |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-        <br>OpenCV
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 💼 Featured Projects
-
+### Contact
+<div align="left">
+  <a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chatterjee.197@osu.edu">
+      <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://pakhi-02.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 👁️ Diabetic Retinopathy Detection
-```yaml
-Type: Medical Image Classification
-Model: EfficientNet + CNN ensemble
-Challenge: Limited labeled scans
-Solution: Targeted augmentation + regularization
-Status: Production-ready
-```
-
-</td>
-<td width="50%">
-
-### 🦴 Bone Age Estimation
-```yaml
-Type: Regression Model
-Domain: Pediatric Radiology
-Architecture: Attention-based CNN
-Focus: Fine-grained anatomical cues
-Status: Deployed research prototype
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 Real-time CV Pipelines
-```yaml
-Type: Object Tracking System
-Tech: YOLO + Kalman filtering
-Performance: Low-latency inference
-Use Case: Motion detection & tracking
-Status: Production deployment
-```
-
-</td>
-<td width="50%">
-
-### 🤖 ML Research
-```yaml
-Focus: Production ML systems
-Areas: Computer Vision, Deep Learning
-Goal: Research-to-production impact
-Approach: Applied ML engineering
-Status: Ongoing exploration
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-</a>
-<a href="mailto:chatterjee.197@osu.edu">
-    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email" />
-</a>
-<a href="https://pakhi-02.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=1E3A8A" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-**Currently seeking full-time SWE & ML/CV roles**  
-*Open to interesting problems in production machine learning*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=1e40af" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
----
-
-*"Training models by day, debugging convergence by night"* ✨
-
-<sub>Thanks for stopping by.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=110&section=footer"/>
 </div>
