@@ -1,20 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  PAKHI CHATTERJEE — README.md             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&section=header&text=Pakhi%20Chatterjee&fontSize=48&fontColor=f5eaf0&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=c97fb0&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6d597a&section=header&text=Pakhi%20Chatterjee&fontSize=48&fontColor=fff7fb&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Production%20ML&descSize=16&descFontColor=e9d5ff&descAlignY=56" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1000&color=C97FB0&center=true&vCenter=true&width=800&lines=Building+dependable+ML+systems+that+actually+ship.;Computer+Vision+Engineer+%40+Ohio+State+University.;From+experimentation+to+production+%E2%80%94+end+to+end." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1000&color=B07AA1&center=true&vCenter=true&width=800&lines=Building+dependable+ML+systems+that+actually+ship.;Computer+Vision+Engineer+%40+Ohio+State+University.;From+experimentation+to+production+%E2%80%94+end+to+end." alt="typing" />
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/✦%20Open%20to%20Work-Full--Time-c97fb0?style=flat-square&labelColor=1a0a14)
-![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-7a5a70?style=flat-square&labelColor=13101a)
-![Focus](https://img.shields.io/badge/Production%20AI-Computer%20Vision-8c5ab0?style=flat-square&labelColor=13101a)
+![Open to Work](https://img.shields.io/badge/✦%20Open%20to%20Work-Full--Time-b07aa1?style=flat-square&labelColor=4a3b57)
+![Location](https://img.shields.io/badge/Columbus%2C%20OH-OSU-8b7a9e?style=flat-square&labelColor=4a3b57)
+![Focus](https://img.shields.io/badge/Production%20AI-Computer%20Vision-9a7bb5?style=flat-square&labelColor=4a3b57)
 
 </div>
 
@@ -122,13 +118,13 @@ Bridging the gap between research ideas and real-world ML systems. Prioritizing 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-c97fb0?style=for-the-badge&logo=python&logoColor=1a0a14)
-![PyTorch](https://img.shields.io/badge/PyTorch-8c5ab0?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-7a8cb0?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-b07a5a?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6a7ab0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-5a8ab0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7a5a70?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-b07aa1?style=for-the-badge&logo=python&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-9a7bb5?style=for-the-badge&logo=pytorch&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-8b7a9e?style=for-the-badge&logo=opencv&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-a4879f?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-7e6f90?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-9a86b8?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-8a738c?style=for-the-badge&logo=git&logoColor=ffffff)
 
 </div>
 
@@ -169,9 +165,9 @@ Bridging the gap between research ideas and real-world ML systems. Prioritizing 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c97fb0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0a14)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-8c5ab0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13101a)](mailto:chatterjee.197@osu.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-7a5a70?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d0d0f)](https://pakhi-02.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b07aa1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4a3b57)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-9a7bb5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a3b57)](mailto:chatterjee.197@osu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-8b7a9e?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=4a3b57)](https://pakhi-02.github.io/)
 
 </div>
 
@@ -181,4 +177,4 @@ Bridging the gap between research ideas and real-world ML systems. Prioritizing 
 <sub>Building reliable ML, one model at a time ✦</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6d597a&section=footer" />
