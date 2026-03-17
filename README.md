@@ -14,7 +14,7 @@
 
 <br/>
 
-<sub>˚ʚ♡ɞ˚ Building thoughtful AI systems with research depth + engineering polish ˚ʚ♡ɞ˚</sub>
+<sub>Building practical AI systems for real-world impact</sub>
 
 </div>
 
@@ -23,8 +23,6 @@
 <div align="center">
 
 ## 🎯 About Me
-
-<sub>──────────── ୨ৎ ────────────</sub>
 
 </div>
 
@@ -49,8 +47,6 @@ class Pakhi:
 
 ## ✨ Quick Highlights
 
-<sub>──────────── ୨ৎ ────────────</sub>
-
 </div>
 
 <div align="center">
@@ -68,9 +64,7 @@ class Pakhi:
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
-
-<sub>──────────── ୨ৎ ────────────</sub>
+## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -112,8 +106,6 @@ class Pakhi:
 <div align="center">
 
 ## 💼 Featured Projects
-
-<sub>──────────── ୨ৎ ────────────</sub>
 
 </div>
 
@@ -180,22 +172,7 @@ Status: Ongoing exploration
 
 <div align="center">
 
-## 📊 GitHub Glow
-
-<sub>──────────── ୨ৎ ────────────</sub>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pakhi-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pakhi-02&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🐍 Contribution Activity
-
-<sub>──────────── ୨ৎ ────────────</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg">
@@ -210,8 +187,6 @@ Status: Ongoing exploration
 <div align="center">
 
 ## 🌐 Connect With Me
-
-<sub>──────────── ୨ৎ ────────────</sub>
 
 <a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
@@ -242,7 +217,7 @@ Status: Ongoing exploration
 
 *"Training models by day, debugging convergence by night"* ✨
 
-<sub>Thanks for stopping by — let’s build something meaningful 💜</sub>
+<sub>Thanks for stopping by.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
