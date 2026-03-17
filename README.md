@@ -52,63 +52,40 @@ class Pakhi:
 - **Strength:** Computer vision systems for real-world, messy data.
 - **Goal:** Build dependable ML products people can trust.
 
-## Selected Work
-
-### 👁️ Diabetic Retinopathy Detection
-```yaml
-Type: Medical Image Classification
-Model: EfficientNet + CNN Ensemble
-Focus: Robust performance on limited labeled data
-Methods: Targeted augmentation + regularization
-Outcome: Production-oriented model pipeline
-```
-
-### 🦴 Bone Age Estimation
-```yaml
-Type: Pediatric Radiology Regression
-Architecture: Attention-based CNN
-Focus: Fine-grained anatomical cue learning
-Goal: Stronger prediction quality across age ranges
-Outcome: Deployed research prototype
-```
-
-### 📡 Real-Time CV Pipeline
-```yaml
-Type: Object Tracking System
-Stack: YOLO + Kalman filtering
-Priority: Stable low-latency inference
-Use Case: Production CV tracking workflows
-Outcome: Production deployment
-```
-
-### 🤖 Applied ML Research
-```yaml
-Theme: Research → Practical Systems
-Approach: Bridge research ideas into deployable workflows
-Focus: Practical impact over benchmark-only gains
-Areas: Applied AI, CV research, system design
-Outcome: Ongoing applied exploration
-```
-
-## Explore Projects
+## 🚧 Currently Building
 
 <div align="center">
 
-[![View Repositories](https://img.shields.io/badge/GitHub-Repositories-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/pakhi-02?tab=repositories)
+![In Progress](https://img.shields.io/badge/Status-Actively%20Building-60A5FA?style=flat-square&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/Focus-Production%20ML%20%2B%20CV-3B82F6?style=flat-square&labelColor=0F172A)
 
 </div>
 
-## Currently Building
-
-- A more robust medical imaging workflow for low-data settings
-- Real-time CV components optimized for stable inference behavior
-- A polished portfolio of deployable ML/CV case studies
+- 🧪 **Medical imaging workflow upgrades** for low-data and noisy-data settings
+- ⚡ **Real-time CV components** optimized for stable, low-latency inference
+- 🌐 **Portfolio refresh** with deployable ML/CV case studies and clearer demos
 
 ## Journey Timeline
 
-- **2024:** Deepened ML and CV project work with deployment focus
-- **2025:** Built and iterated on production-oriented healthcare/CV pipelines
-- **2026:** MS CS at OSU + actively pursuing full-time ML/CV engineering roles
+<div align="center">
+
+![2024](https://img.shields.io/badge/2024-Start%20of%20Production%20ML%20Journey-93C5FD?style=for-the-badge&labelColor=0F172A)
+<br/>
+<sub>Deepened ML and CV project work with a strong deployment mindset.</sub>
+
+<br/><br/>
+
+![2025](https://img.shields.io/badge/2025-Built%20Healthcare%20%26%20Real--Time%20CV%20Pipelines-60A5FA?style=for-the-badge&labelColor=0F172A)
+<br/>
+<sub>Iterated on production-oriented systems for reliability and practical impact.</sub>
+
+<br/><br/>
+
+![2026](https://img.shields.io/badge/2026-MS%20CS%20at%20OSU%20%7C%20Seeking%20Full--Time%20Roles-3B82F6?style=for-the-badge&labelColor=0F172A)
+<br/>
+<sub>Focused on ML/CV engineering opportunities where research meets real-world deployment.</sub>
+
+</div>
 
 ## Languages & Tools
 
@@ -123,7 +100,7 @@ Outcome: Ongoing applied exploration
 </table>
 
 <br/>
-![Focus](https://img.shields.io/badge/Focus-Production%20ML%20%26%20Computer%20Vision-60A5FA?style=flat-square&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/Focus-Production%20ML%20%2B%20CV-60A5FA?style=flat-square&labelColor=0F172A)
 
 </div>
 
