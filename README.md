@@ -114,17 +114,17 @@ Bridging the gap between research ideas and real-world ML systems. Prioritizing 
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Languages and Tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-b07aa1?style=for-the-badge&logo=python&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/PyTorch-9a7bb5?style=for-the-badge&logo=pytorch&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-8b7a9e?style=for-the-badge&logo=opencv&logoColor=ffffff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-a4879f?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-7e6f90?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-9a86b8?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-8a738c?style=for-the-badge&logo=git&logoColor=ffffff)
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,git,linux,bash,vscode&perline=10" alt="Languages and Tools" />
+
+<br/>
+
+<sub><b>Core:</b> Python · C++ · PyTorch · TensorFlow · OpenCV</sub>
+<br/>
+<sub><b>Tools:</b> Docker · Git · Linux · Bash · VS Code</sub>
 
 </div>
 
@@ -161,13 +161,19 @@ Bridging the gap between research ideas and real-world ML systems. Prioritizing 
 
 ---
 
-## ✉️ Connect
+## ✉️ Connect with me on
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b07aa1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4a3b57)](https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-9a7bb5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a3b57)](mailto:chatterjee.197@osu.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-8b7a9e?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=4a3b57)](https://pakhi-02.github.io/)
+<a href="https://www.linkedin.com/in/pakhi-chatterjee-94b4a4121/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
+</a>
+<a href="mailto:chatterjee.197@osu.edu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Email" />
+</a>
+<a href="https://pakhi-02.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9a7bb5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
