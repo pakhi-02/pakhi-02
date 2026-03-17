@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pakhi%20Chatterjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Pakhi%20Chatterjee&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=MS+in+Computer+Science;%40+The+Ohio+State+University+%F0%9F%8C%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=MS+in+Computer+Science;%40+The+Ohio+State+University+%F0%9F%8C%B0" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Data+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=334155&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Data+Specialist;Building+AI+that+works+in+production" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open_to_Work-Yes-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
-<img src="https://img.shields.io/badge/Location-Columbus%2C%20OH-8a2be2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-Production%20AI-00bcd4?style=flat-square&logo=brain&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/Open_to_Work-Yes-1E40AF?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Location-Columbus%2C%20OH-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-Production%20AI-0F172A?style=flat-square&logo=brain&logoColor=white" alt="Focus" />
 
 <br/>
 
@@ -192,10 +192,10 @@ Status: Ongoing exploration
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
 <a href="mailto:chatterjee.197@osu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email" />
 </a>
 <a href="https://pakhi-02.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=1E3A8A" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -205,7 +205,7 @@ Status: Ongoing exploration
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=pakhi-02&style=for-the-badge&color=1e40af" alt="Profile Views" />
 
 </div>
 
@@ -219,6 +219,6 @@ Status: Ongoing exploration
 
 <sub>Thanks for stopping by.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 
 </div>
