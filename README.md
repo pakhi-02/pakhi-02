@@ -40,124 +40,61 @@ class Pakhi:
 
 ## Highlights
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### 🚀 Impact
-Research-to-production mindset with measurable outcomes.
+![Research to Production](https://img.shields.io/badge/Research%20%E2%86%92%20Production-6EE7B7?style=flat-square&labelColor=0F172A)
+![Computer Vision Focus](https://img.shields.io/badge/Computer%20Vision-Focus-93C5FD?style=flat-square&labelColor=0F172A)
+![Reliability First](https://img.shields.io/badge/Reliability-First-60A5FA?style=flat-square&labelColor=0F172A)
 
-</td>
-<td align="center" width="33%">
+</div>
 
-### 🧠 Strength
-Computer vision systems for real-world, messy data.
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 Goal
-Build dependable ML products people can trust.
-
-</td>
-</tr>
-</table>
+- **Impact:** Research-to-production mindset with measurable outcomes.
+- **Strength:** Computer vision systems for real-world, messy data.
+- **Goal:** Build dependable ML products people can trust.
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 👁️ Diabetic Retinopathy Detection
-<sub><b>Medical Image Classification</b></sub>
-
-<br/>
-
-Built an EfficientNet + CNN ensemble and improved robustness on limited labeled data with targeted augmentation and regularization.
-
-<br/>
-
-![EfficientNet](https://img.shields.io/badge/EfficientNet-60A5FA?style=flat-square&labelColor=0F172A)
-![CNN Ensemble](https://img.shields.io/badge/CNN%20Ensemble-3B82F6?style=flat-square&labelColor=0F172A)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-93C5FD?style=flat-square&labelColor=0F172A)
-
-<br/>
-
-<b>Outcome:</b> Production-oriented model pipeline
-
-</td>
-<td width="50%" valign="top">
+```yaml
+Type: Medical Image Classification
+Model: EfficientNet + CNN Ensemble
+Focus: Robust performance on limited labeled data
+Methods: Targeted augmentation + regularization
+Outcome: Production-oriented model pipeline
+```
 
 ### 🦴 Bone Age Estimation
-<sub><b>Pediatric Radiology · Regression</b></sub>
-
-<br/>
-
-Developed an attention-based CNN regression model to capture fine-grained anatomical cues across age ranges.
-
-<br/>
-
-![Attention CNN](https://img.shields.io/badge/Attention%20CNN-60A5FA?style=flat-square&labelColor=0F172A)
-![Regression](https://img.shields.io/badge/Regression-3B82F6?style=flat-square&labelColor=0F172A)
-![Radiology](https://img.shields.io/badge/Radiology-93C5FD?style=flat-square&labelColor=0F172A)
-
-<br/>
-
-<b>Outcome:</b> Deployed research prototype
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```yaml
+Type: Pediatric Radiology Regression
+Architecture: Attention-based CNN
+Focus: Fine-grained anatomical cue learning
+Goal: Stronger prediction quality across age ranges
+Outcome: Deployed research prototype
+```
 
 ### 📡 Real-Time CV Pipeline
-<sub><b>Object Tracking · Low-Latency Inference</b></sub>
-
-<br/>
-
-Implemented YOLO + Kalman filtering for stable tracking with low-latency behavior in production settings.
-
-<br/>
-
-![YOLO](https://img.shields.io/badge/YOLO-60A5FA?style=flat-square&labelColor=0F172A)
-![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-3B82F6?style=flat-square&labelColor=0F172A)
-![Object Tracking](https://img.shields.io/badge/Object%20Tracking-93C5FD?style=flat-square&labelColor=0F172A)
-
-<br/>
-
-<b>Outcome:</b> Production deployment
-
-</td>
-<td width="50%" valign="top">
+```yaml
+Type: Object Tracking System
+Stack: YOLO + Kalman filtering
+Priority: Stable low-latency inference
+Use Case: Production CV tracking workflows
+Outcome: Production deployment
+```
 
 ### 🤖 Applied ML Research
-<sub><b>Research → Practical Systems</b></sub>
-
-<br/>
-
-Bridged research concepts into real-world ML workflows with an emphasis on practical, measurable impact.
-
-<br/>
-
-![Applied AI](https://img.shields.io/badge/Applied%20AI-60A5FA?style=flat-square&labelColor=0F172A)
-![System Design](https://img.shields.io/badge/System%20Design-3B82F6?style=flat-square&labelColor=0F172A)
-![CV Research](https://img.shields.io/badge/CV%20Research-93C5FD?style=flat-square&labelColor=0F172A)
-
-<br/>
-
-<b>Outcome:</b> Ongoing applied exploration
-
-</td>
-</tr>
-</table>
+```yaml
+Theme: Research → Practical Systems
+Approach: Bridge research ideas into deployable workflows
+Focus: Practical impact over benchmark-only gains
+Areas: Applied AI, CV research, system design
+Outcome: Ongoing applied exploration
+```
 
 ## Explore Projects
 
 <div align="center">
 
 [![View Repositories](https://img.shields.io/badge/GitHub-Repositories-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/pakhi-02?tab=repositories)
-[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A)](https://pakhi-02.github.io/)
 
 </div>
 
