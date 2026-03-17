@@ -1,18 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,25,26&section=header&text=%F0%9F%8C%B0%20Pakhi%20Chatterjee&fontSize=52&fontColor=f4ecff&animation=twinkling&fontAlign=20&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,25,26&section=header&text=%F0%9F%8C%B0%20Pakhi%20Chatterjee&fontSize=50&fontColor=f4ecff&animation=twinkling&fontAlign=16&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=2200&pause=700&color=C084AB&center=true&vCenter=true&repeat=true&width=860&lines=AI+Engineer;Computer+Vision+Engineer;Production+ML+Builder" alt="roles" />
 
 <br/>
 
 ![](https://img.shields.io/badge/Open%20to%20Work-Full--Time-c084ab?style=flat-square&labelColor=0f0b16)
-![](https://img.shields.io/badge/Columbus%2C%20OH-OSU-8c6aac?style=flat-square&labelColor=0f0b16)
-![](https://img.shields.io/badge/MS%20CS-Ohio%20State%20University-a879bb?style=flat-square&labelColor=0f0b16)
+![](https://img.shields.io/badge/Location-Columbus%2C%20OH-8c6aac?style=flat-square&labelColor=0f0b16)
+![](https://img.shields.io/badge/Education-OSU%20%C2%B7%20MS%20CS-a879bb?style=flat-square&labelColor=0f0b16)
+![](https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Production%20ML-7c6398?style=flat-square&labelColor=0f0b16)
 
 </div>
 
-## ABOUT
+## About Me
 
 ```python
 class Pakhi:
@@ -30,7 +31,7 @@ class Pakhi:
         }
 ```
 
-## ✨ HIGHLIGHTS
+## ✨ Highlights
 
 ```yaml
 impact: Research-to-production mindset with measurable outcomes
@@ -38,13 +39,13 @@ strength: Computer vision for real-world, messy data
 goal: Build dependable ML products people can trust
 ```
 
-## 🌸 FEATURED WORK
+## 🌸 Featured Work
 
 ```yaml
 01 · Diabetic Retinopathy Detection
 type: Medical Image Classification
 stack: EfficientNet + CNN Ensemble
-focus: Robust performance on limited labeled medical data
+focus: Robustness on limited labeled data
 outcome: Production-oriented pipeline
 ```
 
@@ -72,11 +73,26 @@ areas: Applied AI, CV research, system design
 status: Ongoing
 ```
 
-## ⚡ LANGUAGES & TOOLS
+## ⚡ Languages & Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,bash,linux,docker,git,vscode&perline=10" alt="Languages and Tools" />
+<table>
+  <tr>
+    <td align="center" width="260">
+      <b>ML / CV</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4" alt="ML and CV" />
+    </td>
+    <td align="center" width="260">
+      <b>Engineering</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,bash,linux&perline=3" alt="Engineering" />
+    </td>
+    <td align="center" width="260">
+      <b>Dev Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,vscode&perline=3" alt="Dev Tools" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -92,7 +108,7 @@ status: Ongoing
 
 </div>
 
-## 🎯 CURRENTLY SEEKING
+## 🎯 Currently Seeking
 
 <div align="center">
 
@@ -102,7 +118,7 @@ status: Ongoing
 
 </div>
 
-## 📈 CONTRIBUTION ACTIVITY
+## 📈 Contribution Activity
 
 <div align="center">
   <picture>
@@ -112,7 +128,7 @@ status: Ongoing
   </picture>
 </div>
 
-## 🤝 CONNECT
+## 🤝 Connect
 
 <div align="center">
 
