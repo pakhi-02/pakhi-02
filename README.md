@@ -137,7 +137,7 @@ Training models by day, debugging pipelines by night.
 
 </div>
 
-## Contribution Graph
+## Contributions
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Training models by day, debugging pipelines by night.
 
 </div>
 
-## Snake Animation
+
 
 <div align="center">
 
@@ -156,6 +156,7 @@ Training models by day, debugging pipelines by night.
 </picture>
 
 </div>
+
 ## 🤝 Connect
 
 <div align="center">
