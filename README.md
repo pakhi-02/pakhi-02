@@ -137,6 +137,25 @@ Training models by day, debugging pipelines by night.
 
 </div>
 
+## Contribution Graph
+
+<div align="center">
+
+[![Pakhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pakhi-02&bg_color=0f0b16&color=c084ab&line=a879bb&point=eef2ff&area=true&hide_border=true)](https://github.com/pakhi-02)
+
+</div>
+
+## Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pakhi-02/pakhi-02/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 ## 🤝 Connect
 
 <div align="center">
